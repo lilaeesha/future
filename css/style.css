@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: black;
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+}
+ul{
+    display: flex;
+    padding: 50px;
+}
+li{
+    margin-right: 35px;
+    list-style: none;
+}
+a{
+    padding: 30px;
+    color: aliceblue;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: sans-serif;
+}
+button{
+    width: 159px;
+    height: 50px;
+    border-radius: 5px;
+    background: #57B8FF;
+    color: aliceblue;
+}
+/* .colors{
+  display: flex;
+
+}
+.color{
+    width: 55px;
+    color: black;
+}
+.color{
+    width: 45px;
+    color: #57B8FF;
+    
+} */
+
+.rasm{
+    transform: translateX(750px);
+    margin-top: 100px;    
+}
+.yozuvi{
+    color: aliceblue;
+}
+p{
+    top: 200px;
+}
